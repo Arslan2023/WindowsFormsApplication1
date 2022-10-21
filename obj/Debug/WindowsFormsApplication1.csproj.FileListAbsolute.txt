@@ -1,0 +1,32 @@
+C:\Users\20-23865\Desktop\срс 1 вариант арслан\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\20-23865\Desktop\срс 1 вариант арслан\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\20-23865\Desktop\срс 1 вариант арслан\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\20-23865\Desktop\срс 1 вариант арслан\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\20-23865\Desktop\срс 1 вариант арслан\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\20-23865\Desktop\срс 1 вариант арслан\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\20-23865\Desktop\срс 1 вариант арслан\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\20-23865\Desktop\срс 1 вариант арслан\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\20-23865\Desktop\срс 1 вариант арслан\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\20-23865\Desktop\срс 1 вариант арслан\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\20-23865\Desktop\срс 1 вариант арслан\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\20-23865\Desktop\срс 1 вариант арслан\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\8 variant Ars.accdb
+C:\Users\20-23865\Desktop\срс 1 вариант арслан\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\_8_variant_ArsDataSet.Designer.cs
+C:\Users\20-23865\Desktop\срс 1 вариант арслан\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\_8_variant_ArsDataSet.xsc
+C:\Users\20-23865\Desktop\срс 1 вариант арслан\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\_8_variant_ArsDataSet.xsd
+C:\Users\20-23865\Desktop\срс 1 вариант арслан\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\_8_variant_ArsDataSet.xss
+C:\Users\20-23865\Desktop\срс 1 вариант арслан\8 задание\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\20-23865\Desktop\срс 1 вариант арслан\8 задание\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\20-23865\Desktop\срс 1 вариант арслан\8 задание\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\20-23865\Desktop\срс 1 вариант арслан\8 задание\WindowsFormsApplication1\bin\Debug\_8_variant_ArsDataSet.Designer.cs
+C:\Users\20-23865\Desktop\срс 1 вариант арслан\8 задание\WindowsFormsApplication1\bin\Debug\_8_variant_ArsDataSet.xsc
+C:\Users\20-23865\Desktop\срс 1 вариант арслан\8 задание\WindowsFormsApplication1\bin\Debug\_8_variant_ArsDataSet.xsd
+C:\Users\20-23865\Desktop\срс 1 вариант арслан\8 задание\WindowsFormsApplication1\bin\Debug\_8_variant_ArsDataSet.xss
+C:\Users\20-23865\Desktop\срс 1 вариант арслан\8 задание\WindowsFormsApplication1\bin\Debug\8 variant Ars.accdb
+C:\Users\20-23865\Desktop\срс 1 вариант арслан\8 задание\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\20-23865\Desktop\срс 1 вариант арслан\8 задание\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\20-23865\Desktop\срс 1 вариант арслан\8 задание\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\20-23865\Desktop\срс 1 вариант арслан\8 задание\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\20-23865\Desktop\срс 1 вариант арслан\8 задание\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\20-23865\Desktop\срс 1 вариант арслан\8 задание\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\20-23865\Desktop\срс 1 вариант арслан\8 задание\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\20-23865\Desktop\срс 1 вариант арслан\8 задание\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
